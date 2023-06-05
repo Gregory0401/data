@@ -14,17 +14,43 @@
 "title": "Post 3"
 }
 ],
-"comments": [
+"special": [
 {
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
+        "id": 1,
+    "name": "Dessert ice cream plating",
+    "price": "230",
+    "image": "https://i.pinimg.com/736x/92/84/ff/9284ffb0bff132c99737397972c45e4d--gourmet-desserts-plated-desserts.jpg"
+  },
+  {
+          "id": 2,
+    "name": "Chocolate, Vanilla Ice-Cream",
+    "price": "220",
+    "image": "https://i.pinimg.com/564x/5d/ca/fd/5dcafde071ef41dcfcfafbb8a1100a96.jpg"
+  },
+  {
+          "id": 3,
+    "name": "Cutting Straight ",
+    "price": "200",
+    "image": "https://static01.nyt.com/images/2014/02/05/dining/20140205-HUNGRY-slide-GEPP/20140205-HUNGRY-slide-GEPP-superJumbo.jpg"
+  },
+  {
+          "id": 4,
+    "name": "Dessert - The New York",
+    "price": "225",
+    "image": "https://static01.nyt.com/images/2014/02/05/dining/20140205-HUNGRY-slide-4P5G/20140205-HUNGRY-slide-4P5G-superJumbo.jpg"
+  },
+  {
+          "id": 5,
+    "name": "Cheesecake",
+    "price": "230",
+    "image": "https://static01.nyt.com/images/2014/02/05/dining/20140205-HUNGRY-slide-N08Q/20140205-HUNGRY-slide-N08Q-superJumbo.jpg"
+  },
+  {
+          "id": 6,
+    "name": "Pretty on Plate",
+    "price": "230",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrEmmwEH6nRrgplNH0Ap7fPyN2e1f2M8vJzpzY3gWN3OvDdfQI88B4DChtFC_aL-kfcg&usqp=CAU"
+  }
 ],
 "fine-desserts": [
         {
