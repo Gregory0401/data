@@ -1,4 +1,5 @@
-[
+{
+  "fine desserts": [
   {
     "name": "Earl Grey ice cream",
     "price": "130",
@@ -28,6 +29,6 @@
     "name": "Miso Ice Cream",
     "price": "130",
     "image": "https://images.squarespace-cdn.com/content/v1/5dabc68430eb5203e266f05f/1581457326798-CN6RI9W9FOX8498ITLL9/Miso-ice-cream"
-  }
-  
+  }  
 ]
+}
