@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Earl Grey ice cream",
+    "price": "130",
+    "image": "https://media-cdn2.greatbritishchefs.com/media/r1if3pse/img27995.whqc_1426x713q90.jpg"
+  },
+  {
+    "name": "Strawberry ice cream",
+    "price": "120",
+    "image": "https://media-cdn2.greatbritishchefs.com/media/55dfbrru/img23511.whqc_768x512q90fpt444fpl565.jpg"
+  },
+  {
+    "name": "Scoop of Strawberry Ice Cream",
+    "price": "100",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5Z-l0EFq-45TChWSNaX39UERqa1vVtQw2L-hW8_guiQBGKhALOzpH-NIrv6UTrg0NeM&usqp=CAU"
+  },
+  {
+    "name": "Coffee ice cream",
+    "price": "125",
+    "image": "https://media-cdn2.greatbritishchefs.com/media/ycnb3m14/img27993.jpg"
+  },
+  {
+    "name": "Miso caramel ice cream",
+    "price": "130",
+    "image": "https://media-cdn2.greatbritishchefs.com/media/bi3lhky2/img69453.jpg"
+  },
+  {
+    "name": "Miso Ice Cream",
+    "price": "130",
+    "image": "https://images.squarespace-cdn.com/content/v1/5dabc68430eb5203e266f05f/1581457326798-CN6RI9W9FOX8498ITLL9/Miso-ice-cream"
+  }
+  
+]
