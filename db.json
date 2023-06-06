@@ -1,18 +1,37 @@
 
 {
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
+"vegan": [
+  {
+    "name": "Vanilla Vegan ice-cream",
+    "price": "130",
+    "image": "https://lovingitvegan.com/wp-content/uploads/2019/08/Vegan-Ice-Cream-14.jpg"
+  },
+  {
+    "name": "Simple Vegan Ice Cream",
+    "price": "120",
+    "image": "https://cleangreensimple.com/wp-content/uploads/vegan-ice-cream.jpg"
+  },
+  {
+    "name": "Coffe Vegan Ice Cream",
+    "price": "100",
+    "image": "https://lovingitvegan.com/wp-content/uploads/2019/08/Vegan-Ice-Cream-14-500x500.jpg"
+  },
+  {
+    "name": "Vegan Vanilla Ice Cream",
+    "price": "125",
+    "image": "https://makeitdairyfree.com/wp-content/uploads/2019/07/Vegan-Vanilla-Ice-Cream-2.jpg"
+  },
+  {
+    "name": "Creamy Vegan Ice Cream",
+    "price": "130",
+    "image": "https://nutritionrefined.com/wp-content/uploads/2018/07/vegan-vanilla-ice-cream-coconut-milk-cashews-vanilla-bean.jpg"
+  },
+  {
+    "name": "Chocolat Vegan Ice Cream",
+    "price": "130",
+    "image": "https://lovingitvegan.com/wp-content/uploads/2016/09/Vegan-Chocolate-Ice-Cream-6.jpg"
+  }
+  
 ],
 "special": [
 {
