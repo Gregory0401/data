@@ -56,7 +56,7 @@
   {
     "count": 1,
     "id": 2.2,
-    "name": "Chocolate, Vanilla Ice-Cream",
+    "name": "Chocolate Ice-Cream",
     "price": "220",
     "image": "https://i.pinimg.com/564x/5d/ca/fd/5dcafde071ef41dcfcfafbb8a1100a96.jpg"
   },
@@ -107,7 +107,7 @@
         {
             "count": 1,   
             "id": 3.3,
-            "name": "Scoop of Strawberry Ice Cream",
+            "name": "Scoop Ice Cream",
             "price": "100",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5Z-l0EFq-45TChWSNaX39UERqa1vVtQw2L-hW8_guiQBGKhALOzpH-NIrv6UTrg0NeM&usqp=CAU"
         },
